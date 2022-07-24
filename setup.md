@@ -21,7 +21,8 @@ https://ohmyz.sh/
 
 ## Install Omzsh plugins
 1. https://github.com/zsh-users/zsh-autosuggestions
-1. Add [history](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history) to plugins in ~/.zshrc (installed by default with omzsh)
+1. Add [history](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history) to plugins in ~/.zshrc (comes bundled with with omzsh)
+1. Add [macos](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos) to plugins in ~/.zshrc (comes bundled with omzsh)
 
 ## Powerlevel 10K or whatever it's at now
 
