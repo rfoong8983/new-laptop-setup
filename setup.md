@@ -12,6 +12,10 @@
 1. Keys
 1. Set 'Left Option key' to 'Esc+'
 
+## Open tab in curr dir
+Click iTerm2 → Preferences → Profiles
+In “Working Directory” section select “Reuse previous session’s directory”
+
 ## Install Oh My Zsh
 https://ohmyz.sh/
 
