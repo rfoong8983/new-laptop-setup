@@ -23,6 +23,7 @@ https://ohmyz.sh/
 1. https://github.com/zsh-users/zsh-autosuggestions
 1. Add [history](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history) to plugins in ~/.zshrc (comes bundled with with omzsh)
 1. Add [macos](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos) to plugins in ~/.zshrc (comes bundled with omzsh)
+1. Add [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 
 ## Powerlevel 10K or whatever it's at now
 
@@ -31,3 +32,14 @@ For downloading stuffs
 
 ## Color theme bb
 https://github.com/folke/tokyonight.nvim
+
+## ~/.zshrc aliases
+- alias be="bundle exec"
+- alias bi="bundle install"
+- alias ber="bundle exec rspec"
+- alias gco="git checkout"
+- alias gcom="gco master"
+- alias gf="git fetch"
+- alias gfo="gf origin"
+- alias gpus="git push"
+- alias gpul="git pull"
